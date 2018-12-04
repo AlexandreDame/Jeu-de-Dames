@@ -1,0 +1,47 @@
+body{
+	border:4px solid #e68a17;
+	background: green;
+}
+
+#platform {
+
+	margin:50px 450px;
+	background: white;
+}
+
+.platform-row {
+	display: flex;
+}
+
+.square {
+	width: 55px;
+	height: 55px;
+	border: 2px solid black;
+	
+
+}
+
+.yellow {
+	background-color: white;
+}
+
+.silver {
+	background-color: black;
+}
+
+.pawn {
+	border : 1px solid black;
+}
+.img{
+	margin:10px 10px;
+}
+.dialog{
+    display: none;
+    color: #ffffff;
+    background-color: #615858;
+    border-color: #2227c1;
+    padding : 20px;
+    margin-top: 30px;
+    width: 20%;
+
+}
